@@ -1,5 +1,4 @@
 site_name: My Blog
-site_url: https://lyriontsoi.github.com
 theme:
   name: material
   features:
